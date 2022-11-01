@@ -2,7 +2,7 @@
 
 Appium Inspector JSON:
 
-{
+```{
 "platformName": "Android",
     "platformVersion": "12.0",
     "appium:deviceName": "Android GoogleAPI Emulator",
@@ -11,3 +11,4 @@ Appium Inspector JSON:
     "appium:appWaitActivity": "com.saucelabs.mydemoapp.android.view.activities.MainActivity",
     "appium:newCommandTimeout": 240
 }
+```
